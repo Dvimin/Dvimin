@@ -2,10 +2,10 @@
 
 Hi 👋 My name is Misha
 ======================
-[![Telegram](https://img.shields.io/badge/Telegram-%232AABEE?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)](https://t.me/MilDvin)
+[![Telegram](https://img.shields.io/badge/Telegram-%232AABEE?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)](https://t.me/Dvimin)
 ![Profile views](https://komarev.com/ghpvc/?username=Dvimin) 
 
-I started programming in the 8th grade while preparing for my final exams. I repeatedly became a prize-winner in Olympiads in mathematics, computer science, and physics during my time at the lyceum. In 2021, I enrolled at SPbPU to pursue a Bachelor's degree in Applied Mathematics and Computer Science with a specialization in System Programming. Additionally, I lead an active life and am passionate about rock climbing, tourism, and archaeology.
+I started programming in school. I am a prize-winner of mathematics, computer science, and physics Olympiads. In 2021, I enrolled at Peter the Great St. Petersburg Polytechnic University in the Applied Mathematics and Computer Science program with a specialization in System Programming. I lead an active lifestyle, enjoy rock climbing, tourism, and archaeology, and play the balalaika and guitar.
 
 * 🌍 I'm based in St. Petersburg
 * ✉️ You can contact me at [dmitriev.michail@mail.ru](mailto:dmitriev.michail@mail.ru)
